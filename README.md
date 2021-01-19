@@ -1,5 +1,5 @@
 # Stock-Market-Application
-An application that tracks the movement of the stock market using the language Processing.
+An application that tracks the movement of the stock market using the Processing Java library.
 
 ## The intial sketch of the user interface
 <img src="https://i.imgur.com/MFNPSHq.png" />
