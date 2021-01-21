@@ -4,7 +4,7 @@ An application that tracks the movement of the stock market using the Processing
 ## The intial sketch of the user interface
 <img src="https://i.imgur.com/MFNPSHq.png" />
 
-## Final Design of the user interface
+## Final design of the user interface
 
 <img src="https://i.imgur.com/i2VPTtL.png" />
 
